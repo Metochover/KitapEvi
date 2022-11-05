@@ -1,0 +1,15 @@
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\bin\Debug\net5.0\Data_Access.deps.json
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\bin\Debug\net5.0\Data_Access.dll
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\bin\Debug\net5.0\ref\Data_Access.dll
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\bin\Debug\net5.0\Data_Access.pdb
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\bin\Debug\net5.0\Model.dll
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\bin\Debug\net5.0\Model.pdb
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.csproj.AssemblyReference.cache
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.AssemblyInfoInputs.cache
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.AssemblyInfo.cs
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.csproj.CopyComplete
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.dll
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\ref\Data_Access.dll
+C:\Users\Metehan\OneDrive\Masaüstü\GRSYKitapEvi\Data_Access\obj\Debug\net5.0\Data_Access.pdb

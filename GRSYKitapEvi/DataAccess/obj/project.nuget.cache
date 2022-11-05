@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CVmaBtd6HcuwIlp+lb3QY5xLLeBYoBFGQ0yb/YLWYRXMGpd/hacjuVyRHGdyUYya/G/Z/xdwBKQ4fBKTxhsucQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Metehan\\OneDrive\\Masaüstü\\GRSYKitapEvi\\DataAccess\\DataAccess.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Metehan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}
